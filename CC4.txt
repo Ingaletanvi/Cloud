@@ -8,8 +8,8 @@ Step-4 New custom object page Open
 	Label as a-Comment
 	Plural label- comments
 	Give Record Name as –comment name
-	Data type- text
-	Select Allow Reports Check Box
+	--Data type- text
+	--Select Allow Reports Check Box
 	Click on Save
 
 Step-5
