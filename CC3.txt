@@ -1,0 +1,21 @@
+https://developer.salesforce.com/signup  
+
+https://login.salesforce.com/  
+
+1. Open Developer Console 
+2. File ---> New ---> Select Apex Class 
+3. Type below mentioned code   
+
+public class FirstClass1  
+{     
+	public static void firstMethod()     
+		{   
+			System.debug('WELCOME TO METIOE NASHIK');     
+		} 
+}
+
+4. Click on Debug ---> Open Execute Acronymous Window 
+
+5. Type below code(Apex Code)       
+
+FirstClass1.firstMethod(); 
