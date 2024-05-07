@@ -1,0 +1,21 @@
+Getting started with compute/storage/database lab
+
+modules
+
+getting strated with EC2
+
+start Lab 
+AWS
+Launch instance
+create name --> Additional tags -->select resources --> Volume
+click on windows
+key pair-> proceedd without key pair
+network --> edit --> VPC --> Lab vpc
+then select existing
+common security grp --> web server security
+advanced details --> instance profile --> lab instance profile
+termination protrction enabled
+goto workbench --> copy the code 
+paste to empty box
+launch instance
+actions --> monitor and trouble shoot-->get instance ss and system log
