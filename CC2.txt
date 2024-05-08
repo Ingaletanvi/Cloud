@@ -1,5 +1,6 @@
 CC 2
-
+gcloud auth list
+gcloud config list project 
 mkdir ~/helloworld
 cd ~/helloworld
 
